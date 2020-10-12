@@ -58,7 +58,7 @@ Node js
 React js
 Redux
 Angular js
-Stulus
+Stylus
 Css
 Sass
 Jade
