@@ -1,13 +1,12 @@
-Segun Omoni
-Manila 1000
-charlsefrancis130384@gmail.com
-+639219893090
+Ayomide Oladimeji O.
+redwings.collectibles@gmail.com
 Education 
 Deakin university, Warrnambool 
-Bachelor of Science, Information technology, Present 
-Accomplishments 
-Managing Big Data with R and Hadoop Partnership for Advanced Computing in Europe 
-(PRACE) 
+Bachelor of Science, Information technology, Present
+Harvardex(CS50): Computer science
+ 
+Accomplishments ..........................
+
 Learning Online: Searching and Researching University of Leeds 
 Starting a Business 4: Business Processes University of Leeds 
 Cyber Security: Safety at Home, Online, in Life Newcastle University 
@@ -19,6 +18,24 @@ Certificate: Fundamentals of Accounting - Revised 2017 
 Certificate: Fundamentals of Business Law 
 Certificate: Introduction To Supply Chain Management - Revised 2018 
 Certificate: Introduction to Information Technology for Managers
+Certificate: Introduction to data science in python (Microsoft)
+Certificate: java programming sololearn
+Certificate: introduction to jenkins Eduionx
+Certificate: Mobile app security at Cybrary
+Certificate: Become a whitehat hacker and pentester Eduionx
+Certificate: Iot security at Cybrary
+Certificate: Solutions architect(AWS) cybrary
+Certificate: introduction to docker eduionx
+Certificate: Hadoop and bigdata eduionx
+Certificate: Nodejs for beginners
+Certificate: Html sololearn
+Certificate: Javascript sololearn
+Certificate: Sql sololearn
+Certificate: Reactjs and redux
+Cisco Network academy: Introduction to Iot
+MIIT certification: Neworking fundermentals, programming(cisco devices), vsat, pabx, cctv.....
+
+
 Work Experience
 Software Developer
 Amaris consulting inc
@@ -27,33 +44,43 @@ Project based contract where I was a developer handling project on front end fra
 and vue js. I made 3 projects one in angular js a mobile app with 2 pages one profile page and other
 member area which was very basic. 
 the second project was a management dashboard and a vue app which was the last one.
-Education
-Bachelor of Science in Information technology
-Searching and Researching University of Leeds
-Business
-Business Processes University of Leeds
-Online, in Life Newcastle University
-How the Web Is Changing the World University of Southampton
-Certificate
-The Power of Social Media University of Southampton
-Skills
-Sql, Python, Java, Javascript, Node js, Css, Nosql, Docker, Angular js, React js, Vue js, Angular 2, Data
-structures and algorithm, Cryptography, Machine learning, UX/UI
-Certifications and Licenses
-Java
-2019 to Present
-SQL programming
-Present
-Node js
-Javascript
-Present
-Angular 2
-Present
-Python
-Present
-Computer science (c programming, python and sql)
-Jenkins with Eduionx
-Artificial intelligence and machine learning at Eduionx
-React js at solo learn
-Game developer at Eduionx
 
+Bright group internship
+South africa 
+July 2020 to September 
+Fullstack developer
+Made projects
+Speech recognition(speech to text, text to speech using Api, language translation)
+Sms to text using twilo and python/ javasrcipt and ngrok.
+
+Skill set frontend:
+Node js
+React js
+Redux
+Angular js
+Stulus
+Css
+Sass
+Jade
+Vue js
+Backbone js
+Emberjs
+Javascript
+
+Skill set for backend programming:
+Python programming
+Java 
+Sql
+C programming
+C#
+Mysql
+Couchdb
+Firebase
+Ngrok
+Postgresql
+
+
+Hobbies: 
+Swimming, body building, soccer, watching basketball games, i like the soccer leagues in england, germany, i also love making friends who a game lover. I go to the cenema to see trending movies alot with my girlfriend. 
+I am a native african from a family 6 and an extended family. We are convert muslims to christians from my mothers side. And traditionalist on my fathers side.
+I hail from west africa. 
