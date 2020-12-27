@@ -4,6 +4,46 @@ Education 
 Deakin university, Warrnambool 
 Bachelor of Science, Information technology, Present
 Harvardex(CS50): Computer science
+
+Work Experience
+
+Python back-end developer
+2017-2019 freelance 
+People-per-hour
+
+Software Developer
+Amaris consulting inc
+August 2019 to September 2019
+Project based contract where I was a developer handling project on front end frame works. Angular js
+and vue js. I made 3 projects one in angular js a mobile app with 2 pages one profile page and other
+member area which was very basic. 
+the second project was a management dashboard and a vue app which was the last one.
+
+Bright group internship
+South africa 
+July 2020 to September 
+Fullstack developer
+Made projects
+Speech recognition(speech to text, text to speech using Api, language translation)
+Sms to text using twilo and python/ javasrcipt and ngrok.
+
+Ministry OF environmental sanitation
+Bayelsa state
+Operations
+2006 - 2017
+
+Shell - Volunteers
+Holiday Programs 
+2004
+
+
+Currently Learning:
+Enrolled: 
+Machine Learning with solo learn
+Knockout JS with Eduionx
+IT support with Google coursera
+TinyML2 HarvardX
+
  
 Accomplishments ..........................
 
@@ -34,24 +74,6 @@ Certificate: Sql sololearn
 Certificate: Reactjs and redux
 Cisco Network academy: Introduction to Iot
 MIIT certification: Neworking fundermentals, programming(cisco devices), vsat, pabx, cctv.....
-
-
-Work Experience
-Software Developer
-Amaris consulting inc
-August 2019 to September 2019
-Project based contract where I was a developer handling project on front end frame works. Angular js
-and vue js. I made 3 projects one in angular js a mobile app with 2 pages one profile page and other
-member area which was very basic. 
-the second project was a management dashboard and a vue app which was the last one.
-
-Bright group internship
-South africa 
-July 2020 to September 
-Fullstack developer
-Made projects
-Speech recognition(speech to text, text to speech using Api, language translation)
-Sms to text using twilo and python/ javasrcipt and ngrok.
 
 Skill set frontend:
 Node js
