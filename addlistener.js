@@ -101,6 +101,17 @@ Firebase
 Ngrok
 Postgresql
 
+DevOps:
+redis
+jenkins
+aws
+docker
+git
+heroku
+kubernetics
+ansible
+
+
 
 Hobbies: 
 Swimming, body building, soccer, watching basketball games, i like the soccer leagues in england, germany, i also love making friends who a game lover. I go to the cenema to see trending movies alot with my girlfriend. 
