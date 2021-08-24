@@ -1,4 +1,4 @@
-Ayomide Oladimeji O.
+Dev-Segun O.
 redwings.collectibles@gmail.com
 Education 
 Deakin university, Warrnambool 
@@ -7,17 +7,14 @@ Harvardex(CS50): Computer science
 
 Work Experience
 
-Python back-end developer
-2017-2019 freelance 
-People-per-hour
+Python Apprentice 
+Microsoft
+2017
 
-Software Developer
-Amaris consulting inc
-August 2019 to September 2019
-Project based contract where I was a developer handling project on front end frame works. Angular js
-and vue js. I made 3 projects one in angular js a mobile app with 2 pages one profile page and other
-member area which was very basic. 
-the second project was a management dashboard and a vue app which was the last one.
+Software Engr. Apprentice
+Google
+Aug 2020 - Feb - 2021
+
 
 Bright group internship
 South africa 
@@ -27,10 +24,6 @@ Made projects
 Speech recognition(speech to text, text to speech using Api, language translation)
 Sms to text using twilo and python/ javasrcipt and ngrok.
 
-Ministry OF environmental sanitation
-Bayelsa state
-Operations
-2006 - 2017
 
 Shell - Volunteers
 Holiday Programs 
@@ -39,10 +32,10 @@ Holiday Programs
 
 Currently Learning:
 Enrolled: 
-Machine Learning with solo learn
+Machine Learning with Google(kaggle)
 Knockout JS with Eduionx
-IT support with Google coursera
-TinyML2 HarvardX
+Data structures and algorithms with Google(leetcode)
+
 
  
 Accomplishments ..........................
@@ -114,6 +107,6 @@ ansible
 
 
 Hobbies: 
-Swimming, body building, soccer, watching basketball games, i like the soccer leagues in england, germany, i also love making friends who a game lover. I go to the cenema to see trending movies alot with my girlfriend. 
-I am a native african from a family 6 and an extended family. We are convert muslims to christians from my mothers side. And traditionalist on my fathers side.
+Listening to trending music, video games, premiership league, symphony, i like the soccer leagues in england, germany, i also love making friends who a game lovers. I go to the cinema to see trending movies alot with my girlfriend. And I walk my dog first thing in the morning.  
+I am a native african from a family of 6 and an extended family at heart. We are God fearing and we love each other. 
 I hail from west africa. 
