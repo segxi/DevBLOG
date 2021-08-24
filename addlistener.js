@@ -1,4 +1,4 @@
-Ayomide Oladimeji O.
+Dev-Segun O 
 redwings.collectibles@gmail.com
 Education 
 Deakin university, Warrnambool 
@@ -8,29 +8,30 @@ Harvardex(CS50): Computer science
 Work Experience
 
 Python back-end developer
-2017-2019 freelance 
-People-per-hour
+Apprentice Microsoft
+2017
 
-Software Developer
-Amaris consulting inc
-August 2019 to September 2019
-Project based contract where I was a developer handling project on front end frame works. Angular js
-and vue js. I made 3 projects one in angular js a mobile app with 2 pages one profile page and other
-member area which was very basic. 
-the second project was a management dashboard and a vue app which was the last one.
+Software Engr
+Apprentice Google
+2020
+Automating work writing python script
 
 Bright group internship
 South africa 
-July 2020 to September 
+July 2020 
 Fullstack developer
 Made projects
 Speech recognition(speech to text, text to speech using Api, language translation)
 Sms to text using twilo and python/ javasrcipt and ngrok.
 
-Ministry OF environmental sanitation
-Bayelsa state
-Operations
-2006 - 2017
+Tunga 
+Hackerton
+Build a program to help promote the education system in africa
+May 2021
+
+Hackerone
+Pentester
+Write scripts to automate and track down bugs or malicious programs.
 
 Shell - Volunteers
 Holiday Programs 
@@ -39,10 +40,10 @@ Holiday Programs
 
 Currently Learning:
 Enrolled: 
-Machine Learning with solo learn
+Machine Learning with Google(kaggle)
 Knockout JS with Eduionx
-IT support with Google coursera
-TinyML2 HarvardX
+Data structures and Algorithms with Google(leetcode)
+Cyber security Cisco network academy
 
  
 Accomplishments ..........................
@@ -114,6 +115,6 @@ ansible
 
 
 Hobbies: 
-Swimming, body building, soccer, watching basketball games, i like the soccer leagues in england, germany, i also love making friends who a game lover. I go to the cenema to see trending movies alot with my girlfriend. 
-I am a native african from a family 6 and an extended family. We are convert muslims to christians from my mothers side. And traditionalist on my fathers side.
+Swimming, body building, soccer, watching basketball games, i like the soccer leagues in england, germany, i also love making friends who a game lover. I go to the cenema to see trending movies alot with my girlfriend. And I walk my dog in the morning.
+I am a native african from a family of 6 and an extended family by heart. We God fearing and we love each other. And we go to church every Sunday.
 I hail from west africa. 
